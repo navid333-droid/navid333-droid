@@ -19,12 +19,12 @@ Here are some ideas to get you started:
   Data Analyst | Software Developer
 
 ## Table of Contents
-### [Hard Skills](https://github.com/navid333-droid/Navid-Haddady/edit/main/README.md#hard-skills-1)
-### [Soft Skills](https://github.com/navid333-droid/Navid-Haddady/edit/main/README.md#soft-skills-1)
-### [Projects](https://github.com/navid333-droid/Navid-Haddady/edit/main/README.md#projects-1)
+### [Hard Skills](https://github.com/navid333-droid/navid333-droid/blob/main/README.md#hard-skills-1)
+### [Soft Skills](https://github.com/navid333-droid/navid333-droid/blob/main/README.md#soft-skills-1)
+### [Projects](https://github.com/navid333-droid/navid333-droid/blob/main/README.md#projects-1)
 ###
-### [Certificates](https://github.com/navid333-droid/Navid-Haddady/edit/main/README.md#certificates-1) 
-### [Contact](https://github.com/navid333-droid/Navid-Haddady/edit/main/README.md#contact-1)
+### [Certificates](https://github.com/navid333-droid/navid333-droid/blob/main/README.md#certificates-1) 
+### [Contact](https://github.com/navid333-droid/navid333-droid/blob/main/README.md#contact-1)
 
 
 **===========================================================================================**
