@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Data Analyst | Software Developer
 
 ## Table of Contents
-### [Hard Skills](https://github.com/navid333-droid/navid333-droid/blob/main/README.md#hard-skills-1)
+### [Tools](https://github.com/navid333-droid/navid333-droid/blob/main/README.md#tools-1)
 ### [Soft Skills](https://github.com/navid333-droid/navid333-droid/blob/main/README.md#soft-skills-1)
 ### [Projects](https://github.com/navid333-droid/navid333-droid/blob/main/README.md#projects-1)
 ###
@@ -30,7 +30,7 @@ Data Analyst | Software Developer
 **===========================================================================================**
 
 
-### Hard Skills
+### Tools 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg" alt="Excel" width="50">
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-file-icon.svg" alt="SQL" width="50">
@@ -46,7 +46,7 @@ Adaptability, Active Listening, Communication, Critical Thinking, Detail-Oriente
 ### 
 
 ### Contact
-[GitHub](https://github.com/navid333-droid)
+[GitHub](https://github.com/navid333-droid)	| [Email](https://gmail.com)
 
 
 ### Certificates 
