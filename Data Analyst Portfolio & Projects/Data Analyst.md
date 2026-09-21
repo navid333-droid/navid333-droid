@@ -1,1 +1,3 @@
-This is where I will post about my Data Analyst Projects and Portfolio.
+##### This is where I will post about my Data Analyst Projects and Portfolio.
+
+Data Analyst
