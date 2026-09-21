@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Navid Haddady
-[Data Analyst](https://github.com/navid333-droid/navid333-droid/blob/main/data-analyst-1) | [Software Developer]((https://github.com/navid333-droid/navid333-droid/blob/main/data-analyst-1))
+#### [Data Analyst](https://github.com/navid333-droid/navid333-droid/blob/main/data-analyst-1) | [Software Developer]((https://github.com/navid333-droid/navid333-droid/blob/main/data-analyst-1))
 
 ## Table of Contents
 ### [Tools](https://github.com/navid333-droid/navid333-droid/blob/main/README.md#tools-1)
