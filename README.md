@@ -46,7 +46,7 @@ Adaptability, Active Listening, Communication, Critical Thinking, Detail-Oriente
 ### 
 
 ### Contact
-[GitHub](https://github.com/navid333-droid)	| [Email](https://gmail.com)
+[GitHub](https://github.com/navid333-droid)	| [LinkedIn](https://linkedin.com/) | [Email](https://gmail.com)
 
 
 ### Certificates 
