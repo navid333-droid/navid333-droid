@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Soft Skills
-Adaptability, Active Listening, Communication, Critical Thinking, Detail-Oriented, Emotional Intelligence, Organization, Problem-Solving, Quick Learner, Self-Awareness, Time Management, Work Ethic
+Adaptability, Active Listening, Communication, Critical Thinking, Detail-Oriented, Emotional Intelligence, Organization, Problem-Solving, Quality-Focused, Quick Learner, Self-Awareness, Time Management, Work Ethic
 	
 ### Projects
 
